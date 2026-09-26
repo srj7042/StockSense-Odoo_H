@@ -1,0 +1,47 @@
+# Excluded files and folders per user instructions
+Doc/
+Doc
+Agents.md
+agents.md
+AGENTS.md
+Brain.md
+brain.md
+Rules.md
+rules.md
+claude.md
+CLAUDE.md
+frontend/agents.md
+frontend/AGENTS.md
+frontend/claude.md
+frontend/CLAUDE.md
+
+# Dependencies & Environments
+node_modules/
+frontend/node_modules/
+backend/venv/
+venv/
+
+# Build & Output files
+frontend/.next/
+frontend/out/
+dist/
+build/
+
+# Environment & Secrets
+.env
+.env*.local
+*.env
+
+# Databases & Runtime State
+*.db
+*.db-shm
+*.db-wal
+*.sqlite
+*.sqlite3
+
+# System & Cache
+.DS_Store
+*.pyc
+__pycache__/
+backend/app/__pycache__/
+backend/app/*/__pycache__/
