@@ -75,7 +75,5 @@ StockSense/
 ## Authors
 
 - **Suraj**
-- **Nitesh**
-- **Parth**
-- **Sujal**
+
 
