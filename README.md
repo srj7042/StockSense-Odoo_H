@@ -76,4 +76,5 @@ StockSense/
 
 - **Suraj**
 
-
+## Video Link:
+https://www.youtube.com/watch?v=jKzSP-iPM9k
